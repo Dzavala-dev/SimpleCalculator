@@ -28,5 +28,5 @@ fun main () {
         }
         input = readLine()
     }
-    println ("Goodbye!")
+    println ("Goodbye my friend")
 }
